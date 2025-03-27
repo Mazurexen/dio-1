@@ -25,6 +25,5 @@ public class ContaTerminal {
         System.out.println("Seu saldo é: " + saldo + " reais");
         System.out.println("Obrigado por escolher o nosso banco!");
         scanner.close();
-
     }
 }
